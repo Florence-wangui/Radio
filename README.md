@@ -1,5 +1,5 @@
 # Radio
-Making a simple Radio app assigned by a mentor
+Making a simple Radio app 
 
 Created using  
 C#
